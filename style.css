@@ -1,0 +1,217 @@
+body{
+    margin: 0;
+}
+section{
+    display:flex;
+    margin: 10px;
+}
+h1{
+    font-size: 60px;
+}
+.half-width{
+    width:50%;
+    margin: 30px;
+    margin-left: 90px;
+}
+.half-width img{
+    width: 80%;
+}
+
+.second-heading{
+    color:orange;
+    margin-top: -40px;
+}
+.header-one{
+    border-left: 5px solid red;
+    border-radius: 5px;
+    padding: 0px 12px;
+}
+p{
+    font-size: 20px;
+    text-align: justify;
+}
+
+.linkedin-id{
+    background-color: rgb(236, 69, 69);
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+.first-link{
+    margin-top: 35px;
+}
+
+.second-section h1 span{
+    color: orange;
+}
+.second-section-heading{
+    margin: 0 auto;
+    height: 200px;
+}
+
+.second-div{
+height: 380px;
+width:30%;
+margin-left: 5%;
+border-radius: 30px;
+}
+.second-div img{
+    width: 170px;
+    padding: 8px 20px
+}
+
+.second-div h2{
+    padding: 0 20px
+}
+.second-div p{
+    padding: 20px;
+}
+
+.mission{
+    background-color: rgb(196, 247, 247);
+}
+.vission{
+ background-color: rgb(187, 161, 97);
+}
+
+.goals{
+background-color: moccasin;
+margin-right: 4%;
+}
+.second-pic{
+    display: flex;
+}
+
+.third{
+    display: flex;
+}
+
+.third-half-width-one{
+    width: 40%;
+    margin-left: 90px;
+    margin-top: 80px;
+}
+.third-half-width-one img{
+    width: 90%;
+}
+.third-half-width-two{
+    width: 58%;
+    margin-top: 70px;
+}
+.adding-hone{
+   margin-top: -40px;
+}
+
+.third-half-width-two p{
+text-align: justify;
+padding: 0px 20px 30px 0px;
+}
+.third-half-width-two a{
+    background-color: rgb(236, 69, 69);
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.third{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.fourth{
+    display: flex;
+   
+}
+.fourth-half-width-one{
+    margin-left: 90px;
+    margin-top: 80px;
+    margin-right: 15px;
+    width: 60%;
+}
+
+.fourth-half-width-one p{
+    text-align: justify;
+    padding: 0px 20px 30px 0px;
+    }
+.fourth-half-width-two{
+    width: 40%;
+    margin-top: 70px;
+    background-image: url(images/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.fourth-half-width-two img{
+    width: 80%;
+}
+.fourth-half-width-one a{
+    background-color: rgb(236, 69, 69);
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+}
+
+.fifth-one{
+    margin: 0 auto;
+}
+.fifth-one h1{
+    text-align: center;
+    text-decoration: underline;
+    color: navy;
+}
+
+.fifth-one img{
+    margin-left: 190px;
+  
+}
+.fifth-one p{
+    text-align: center;
+    font-size: 35px;
+}
+.fifth-one a{
+    background-color: rgb(236, 69, 69);
+    margin-top: 20px;
+    font-size: 20px;
+    border-radius: 10px;
+    width: 150px;
+    height: 35px;
+    padding: 15px;
+    color: white;
+    text-decoration: none;
+    margin-left: 300px;
+}
+
+.footer{
+    width: 100%;
+    background-color: black;
+    height: 250px;
+   
+}
+.footer-header span{
+    color: white;
+}
+.footer h1{
+    color:rgb(168, 48, 68);
+    text-align: center;
+    padding-top:30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.footer p{
+    color: rgb(112, 109, 109);
+    text-align: center;
+}
